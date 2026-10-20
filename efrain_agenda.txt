@@ -1,6 +1,0 @@
-Agenda de Tareas
-1. Algoritmos
-2. Contabilidad
-3. Algebra
-4. Precalculo
-5. Matematica Discreta
